@@ -1,0 +1,1 @@
+use the command `nohup npx http-server -p <port-number> &` in the index.html directory to expose the web app 
